@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+
+# Ultralytics runs and intermediate outputs
+runs/
+
+# Model weights
+*.pt
+
+# Python specific
+__pycache__/
+*.pyc

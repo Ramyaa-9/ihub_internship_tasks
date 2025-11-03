@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+my_env/
+
+# Ultralytics runs and intermediate outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Jupyter notebooks outputs
+.ipynb_checkpoints/

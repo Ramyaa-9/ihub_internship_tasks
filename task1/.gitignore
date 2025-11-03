@@ -1,0 +1,35 @@
+# Virtual envi# Virtual environments
+.venv/
+my_env/
+
+# Ultralytics runs and intermediate outputs
+runs/
+
+
+# Model weights
+*.pt
+*.pth
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Jupyter notebooks outputs
+.ipynb_checkpoints/nts
+.venv/
+my_env/
+
+# Ultralytics runs and intermediate outputs
+runs/
+my_outputs/ # <--- KEEP THIS LINE if you DON'T want Task 1 raw outputs on GitHub. DELETE it if you DO.
+
+# Model weights
+*.pt
+*.pth
+
+# Python specific
+__pycache__/
+*.pyc
+
+# Jupyter notebooks outputs
+.ipynb_checkpoints/
