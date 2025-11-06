@@ -1,0 +1,14 @@
+# Virtual environments (not directly here, but good practice for any future venv)
+venv/
+
+# Ultralytics runs outputs (these are usually large, keep them out of Git)
+runs/
+
+# Large video files (CRITICAL: KEEP THESE LINES to avoid GitHub upload errors)
+*.mp4
+*.mov
+*.avi
+
+# Python specific
+__pycache__/
+*.pyc
